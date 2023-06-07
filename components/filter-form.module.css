@@ -1,0 +1,127 @@
+.groupChild,
+.groupItem {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 0;
+  left: 29px;
+  box-sizing: border-box;
+  width: 256px;
+  height: 65px;
+}
+.groupItem {
+  left: 27px;
+  width: 814px;
+  height: 163px;
+}
+.div,
+.occ {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  display: inline-block;
+  width: 358.62px;
+  height: 65px;
+  -webkit-text-stroke: 1px #000;
+}
+.div {
+  top: 49px;
+  left: 266.04px;
+  font-size: var(--font-size-45xl);
+  width: 492.13px;
+  height: 83px;
+}
+.groupInner,
+.rectangleGroup {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  width: 841px;
+  height: 163px;
+}
+.groupInner {
+  top: 0;
+  background-color: var(--color-black);
+  width: 123px;
+  height: 65px;
+}
+.div1 {
+  position: absolute;
+  top: 11.9px;
+  left: 21.14px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 80.59px;
+  height: 40.43px;
+  -webkit-text-stroke: 1px #000;
+}
+.rectangleContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 285px;
+  width: 123px;
+  height: 65px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 175px;
+  height: 163px;
+}
+.p {
+  margin: 0;
+}
+.txt {
+  line-break: anywhere;
+  width: 100%;
+}
+.b,
+.groupButton {
+  position: absolute;
+}
+.b {
+  top: 8.36px;
+  left: 9.41px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: -0.01em;
+  display: flex;
+  font-family: var(--font-comfortaa);
+  color: var(--color-black);
+  text-align: left;
+  align-items: center;
+  width: 162.77px;
+  height: 146.28px;
+}
+.groupButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 65px;
+  left: 841px;
+  width: 175px;
+  height: 163px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 280px;
+  left: 96px;
+  width: 1016px;
+  height: 228px;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

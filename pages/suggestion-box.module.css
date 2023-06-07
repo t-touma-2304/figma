@@ -1,0 +1,123 @@
+.groupChild,
+.inputtextarea {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.inputtextarea {
+  top: 20px;
+  left: 14.25px;
+}
+.groupItem,
+.rectangleGroup {
+  position: absolute;
+  top: 165px;
+  left: 44.66px;
+  width: 1107.2px;
+  height: 179.6px;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-royalblue);
+  border: 2px solid var(--color-powderblue);
+  box-sizing: border-box;
+  width: 1106.89px;
+  height: 58.78px;
+}
+.button,
+.rectangleContainer {
+  position: absolute;
+  cursor: pointer;
+}
+.button {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 13px;
+  left: 515.91px;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 96.91px;
+  height: 32px;
+}
+.rectangleContainer {
+  top: 369px;
+  left: 46.56px;
+  width: 1106.89px;
+  height: 58.78px;
+}
+.div {
+  position: absolute;
+  top: 82px;
+  left: 58.91px;
+  font-weight: 500;
+  display: inline-block;
+  width: 173.87px;
+  height: 29.61px;
+}
+.groupInner {
+  position: absolute;
+  top: -11.05px;
+  left: 21.3px;
+  width: 56.61px;
+  height: 22.09px;
+}
+.rectangleDiv,
+.rectangleParent {
+  position: absolute;
+  top: 167px;
+  left: 120px;
+  width: 1200px;
+  height: 518px;
+}
+.rectangleDiv {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-71xl);
+  background-color: var(--color-dodgerblue);
+  width: 157px;
+  height: 90px;
+}
+.groupDiv,
+.groupIcon {
+  position: absolute;
+  top: 10.89px;
+  left: 32.73px;
+  width: 93.7px;
+  height: 67.36px;
+}
+.groupDiv {
+  top: 70px;
+  left: 110px;
+  width: 157px;
+  height: 90px;
+  cursor: pointer;
+}
+.suggBox,
+.suggestionBox {
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.suggBox {
+  width: 1440px;
+  height: 1024px;
+  flex-shrink: 0;
+}
+.suggestionBox {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

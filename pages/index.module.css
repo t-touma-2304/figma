@@ -1,0 +1,89 @@
+.logInChild {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 271px;
+  left: 482px;
+}
+.div {
+  position: absolute;
+  top: 163px;
+  left: 576px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+}
+.logInInner,
+.logInItem {
+  position: absolute;
+  left: 482px;
+}
+.logInItem {
+  border: 0;
+  background-color: transparent;
+  top: 365px;
+}
+.logInInner {
+  top: 463px;
+  background-color: var(--color-royalblue);
+  width: 475px;
+  height: 80px;
+  cursor: pointer;
+}
+.p {
+  margin: 0;
+}
+.div1,
+.div2,
+.div3 {
+  position: absolute;
+  top: 481px;
+  left: 663px;
+  display: inline-block;
+  width: 132px;
+  height: 50px;
+}
+.div2,
+.div3 {
+  top: 382px;
+  left: 509px;
+  width: 184px;
+}
+.div3 {
+  top: 286px;
+  width: 132px;
+}
+.rectangleDiv {
+  top: 758px;
+  left: 482px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke);
+  width: 475px;
+  height: 68px;
+}
+.div4,
+.div5,
+.rectangleDiv {
+  position: absolute;
+}
+.div4 {
+  top: 772px;
+  left: 544px;
+  color: var(--color-black);
+}
+.div5 {
+  top: 764px;
+  left: 509px;
+  font-size: var(--font-size-21xl);
+  color: #e9271b;
+}
+.logIn {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

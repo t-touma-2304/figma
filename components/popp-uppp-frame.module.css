@@ -1,0 +1,22 @@
+.div {
+  position: absolute;
+  top: 148px;
+  left: 28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 885px;
+  height: 62px;
+}
+.poppUpppFrame {
+  position: relative;
+  background-color: transparent;
+  width: 471px;
+  height: 420px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
